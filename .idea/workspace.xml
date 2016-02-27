@@ -131,7 +131,7 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
   </component>
   <component name="RunManager">
@@ -218,12 +218,18 @@
       <option name="project" value="LOCAL" />
       <updated>1456541686358</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="zrdz sadfsdf sdfsdf">
+      <created>1456541863833</created>
+      <option name="number" value="00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1456541863833</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1066" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3296582" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -253,7 +259,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="zrdz" />
     <MESSAGE value="zrdz sadfsdf" />
-    <option name="LAST_COMMIT_MESSAGE" value="zrdz sadfsdf" />
+    <MESSAGE value="zrdz sadfsdf sdfsdf" />
+    <option name="LAST_COMMIT_MESSAGE" value="zrdz sadfsdf sdfsdf" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
